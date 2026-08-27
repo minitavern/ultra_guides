@@ -1,0 +1,1 @@
+const t="/ultra_guides/shots/chat-tab.png",s="/ultra_guides/shots/chat-attch-01.png",a="/ultra_guides/shots/chat-attch-02.png",o="/ultra_guides/shots/chat-bubble-menu.png",_="/ultra_guides/shots/chat-setting-01.png",c="/ultra_guides/shots/chat-setting-02.png";export{t as _,s as a,a as b,o as c,_ as d,c as e};
